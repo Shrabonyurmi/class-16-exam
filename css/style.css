@@ -1,0 +1,198 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.features-section {
+    padding: 50px;
+}
+.container {
+    width: 1200px;
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 70px 50px;
+}
+
+.col {
+    flex: 0 0 auto;
+    width: 50%;
+}
+
+img {
+    max-width: 100%;
+}
+a{
+	color: #0d6efd;
+}
+a, a:hover {
+    text-decoration: none;
+    display: inline-block;
+}
+
+.btn1{
+	background: #237be5;
+	padding: 15px 25px;
+	color: #fff;
+	font-weight: 500;
+	margin-right: 30px;
+	margin-bottom: 30px;
+}
+.btn2{
+	padding: 15px 25px;
+	font-weight: 500;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	background: white;
+	color: #237be5;
+}
+span{
+	font-size: 14px;
+}
+
+.feature-content{
+	padding-right: 80px;
+
+}
+
+.feature-content h1 {
+    font-size: 30px;
+    font-weight: 600;
+    margin: 25px 0;
+    line-height: 1.6;
+    color: #222D39;
+}
+.feature-content p {
+    font-size: 18px;
+    font-weight: 100;
+    line-height: 1.6;
+    color: #222D39;
+}
+
+.feature-content a {
+    FONT-WEIGHT: 600;
+    /* background: #237be5; */
+    /* color: #fff; */
+    font-size: 18px;
+    padding: 5px 10px;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+h2{
+	 font-size: 25px;
+    font-weight:400;
+    margin: 25px 0;
+    color: #222D39;
+
+}
+
+
+.logo-section{
+background: #237be51f;
+text-align: center;
+  width: 100%;
+  justify-content: center;
+  padding: 10px;
+}
+
+.logo a img{
+	padding: 10px;
+
+}
+
+.fcontent{
+	justify-content: center;
+    text-align: center;
+}
+
+.fimg{
+	margin: 30px 20px;
+}
+span.clr{
+font-size: 30px;
+    background: #e4effc;
+}
+
+ul{
+	display: flex;
+	padding: 0;
+	margin: 0;
+
+}
+ul li{
+	width:50%;
+	list-style: none;
+	padding-left: 10px;
+}
+ul li strong{
+	margin: 0;
+    font-size: 20px;
+    font-weight: 600;
+}
+ul li span{
+	font-size: 14px;
+}
+
+.testimonial{width: 400px;
+    border: 2px solid #ddd;
+    border-radius: 5px;
+    padding: 25px;
+    text-align: center;
+
+
+}
+
+.testimonial strong{
+	margin-bottom: 10px;
+    display: block;
+
+}
+
+
+.feature-content  {
+    font-size: 30px;
+    font-weight: 600;
+    margin: 25px 0;
+    line-height: 1.6;
+    color: #222D39;
+}
+.col2{
+    width: 33.33%;
+}
+
+.middle-section{text-align: center;
+    padding: 80px 0;
+    background: #f6f9f9;
+}
+    
+
+
+
+
+
+
+
+.features-section2{
+	 padding: 50px;
+	 background: #227ae6;
+
+}
+
+.footer-section{
+	background: #237be51f;
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+    padding: 10px;
+
+}
+.social{
+
+}
+
